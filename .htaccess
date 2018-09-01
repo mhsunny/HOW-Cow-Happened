@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteRule ^images/thumb/(.*) thumb.php?src=$1&width=264&height=174&crop-to-fit [L]
+RewriteRule ^images/medium/(.*) thumb.php?src=$1&width=360&height=234&crop-to-fit [L]
+RewriteRule ^images/full/(.*) thumb.php?src=$1&width=750&height=422&crop-to-fit [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
