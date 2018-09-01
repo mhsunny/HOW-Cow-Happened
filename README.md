@@ -1,11 +1,14 @@
 # HOW-Cow-Happened
 A special campaign by The Daily Star
 
+Project URL:
+================
+http://www.thedailystar.net/howcowhappened
+
 Project Description:
 ==================
 You think you have lot to share and tell ?
 Great! Here are a few things you should know to submit your funny stories, images and videos about cows to HowCowHappened
-
 How:
 To participate in this campaign/contest all you need to do is taking stories while meeting your long lost friend & submit it along with caption into our dedicated webpage (http://www.thedailystar.net/howcowhappened/) by using the “Submit your photo” button. You may also submit short description regarding your friendship story along with the photo within 100 words.
 
